@@ -5,7 +5,8 @@
 </li>
 <li>see the detail of the movie</li>
 <li>search any serics by popular</li>
-<li>Search Any popular actors</li></ul>
+<li>Search Any popular actors</li>
+<li>Play trailer of the movies and series</li></ul>
 <h2>Tools </h2>
     <ul>
     <li>Infinite scroll actor infinite scrill</li> 
