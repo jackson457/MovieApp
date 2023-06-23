@@ -1,4 +1,4 @@
-<h1>Movie App with  laravle</h1>
+<h1>Movie App with  larael</h1>
 <strong>Features</strong>
 <ul><li>
     Search for any movie in search bar
