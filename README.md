@@ -1,22 +1,18 @@
 ### Installation
 1. **Clone the repositoyr**
-```
-bash 
+```bash 
 git clone https://github.com/kyawzinkoko-dev/MovieApp
 ```
 2. **Copy .env.example**
-```
-bash 
+```bash 
 cp .env.example .env
 ```
 3. **Generate application key**
-```
-bash
+```bash
 php artisan key:generate
 ```
 4. **Run the application**
-```
-bash 
+```bash 
 php artisan serve 
 ```
 <h1>Movie App with  larael</h1>
