@@ -17,7 +17,7 @@ class MovieController extends Controller
     public function index()
     {
         //Popular Movies
-        $popularMovies=Http::get('https://api.themoviedb.org/3/movie/popular?api_key='.env('TMDB_API_TOKEN'))
+        $popularMovies=Http::withOptions(['verify'=>false])->get('https://api.themoviedb.org/3/movie/popular?api_key='.env('TMDB_API_TOKEN'))
         ->json()['results'];
         
         //Now playing Movie
