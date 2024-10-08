@@ -1,3 +1,4 @@
+![Movie App Screenshot](./SS.png)
 ### Installation
 1. **Clone the repositoyr**
 ```bash 
